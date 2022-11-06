@@ -1,0 +1,4 @@
+$ git clone https://github.com/CodeChefVIT/APK-Runner
+$ cd APK-Runner
+$ live-server
+$ ./run.sh
